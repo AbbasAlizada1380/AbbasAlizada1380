@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<img src="./1000_F_835067202_fRNzEFrP4dd8jTgXyndx4nz1EiUTY0c8.jpg" alt="Alt text describing the image" width="900" height="400" style="border-radius: 10%;" />
+<img src="./1000_F_835067202_fRNzEFrP4dd8jTgXyndx4nz1EiUTY0c8.jpg" alt="Alt text describing the image" width="750" height="400" style="border-radius: 10%;" />
 
 
 
