@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+<img src="./1000_F_835067202_fRNzEFrP4dd8jTgXyndx4nz1EiUTY0c8.jpg" alt="Alt text describing the image" width="200" />
+
+
 ![Alt text describing the image](./1000_F_835067202_fRNzEFrP4dd8jTgXyndx4nz1EiUTY0c8.jpg)
 
 
