@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![Screenshot of the application](./![Screenshot of the application](assets/screenshot.png)
-)
+
 1000_F_835067202_fRNzEFrP4dd8jTgXyndx4nz1EiUTY0c8.jpg
 # 🔭 I’m currently working on TET
 - 🌱 I’m currently learning React
