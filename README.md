@@ -1,5 +1,5 @@
 <h1 style="
-    font-family: 'Merriweather', serif; ">Abbas Alizada</h1>
+    font-family: 'sanserif', serif; ">Abbas Alizada</h1>
  👋
 
 <!--
