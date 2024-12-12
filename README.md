@@ -1,4 +1,26 @@
-<h1>Abbas Alizada </h1> 👋
+<h1 style="
+  font-family: 'Roboto', sans-serif; 
+  font-size: 3rem; 
+  font-weight: bold; 
+  color: #333; 
+">
+  <span style="
+    font-family: 'Pacifico', cursive; 
+    font-size: 3.5rem; 
+    color: #007BFF;
+  ">
+    Abbas
+  </span>
+  <span style="
+    font-family: 'Merriweather', serif; 
+    font-size: 3rem; 
+    font-weight: lighter; 
+    color: #555;
+  ">
+    Alizada
+  </span>
+</h1>
+ 👋
 
 <!--
 **AbbasAlizada1380/AbbasAlizada1380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
