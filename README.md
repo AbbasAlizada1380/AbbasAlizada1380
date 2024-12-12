@@ -1,25 +1,5 @@
 <h1 style="
-  font-family: 'Roboto', sans-serif; 
-  font-size: 3rem; 
-  font-weight: bold; 
-  color: #333; 
-">
-  <span style="
-    font-family: 'Pacifico', cursive; 
-    font-size: 3.5rem; 
-    color: #007BFF;
-  ">
-    Abbas
-  </span>
-  <span style="
-    font-family: 'Merriweather', serif; 
-    font-size: 3rem; 
-    font-weight: lighter; 
-    color: #555;
-  ">
-    Alizada
-  </span>
-</h1>
+    font-family: 'Merriweather', serif; ">Abbas Alizada</h1>
  👋
 
 <!--
