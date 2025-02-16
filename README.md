@@ -11,9 +11,9 @@ Here are some ideas to get you started:
   alt="Alt text describing the image"  
   style="
     mix-blend-mode: multiply; 
-    border-radius: 10%; 
+/*     border-radius: 10%; 
     width: 50%; 
-    height: auto;
+    height: auto; */
   "
 />
 
