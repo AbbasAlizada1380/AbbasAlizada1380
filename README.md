@@ -6,16 +6,20 @@
 
 Here are some ideas to get you started:
 -->
-<img 
-  src="./Programming-bro.png" 
-  alt="Alt text describing the image"  
-  style="
-    mix-blend-mode: multiply; 
-/*     border-radius: 10%; 
-    width: 50%; 
-    height: auto; */
-  "
-/>
+<div style="display: flex; justify-content: flex-end;">
+  <img 
+    src="./Programming-bro.png" 
+    alt="Alt text describing the image"  
+    style="
+      mix-blend-mode: multiply; 
+        width: 50%; 
+    height: auto;
+      transform: scale(0.8);
+    "
+  />
+</div>
+
+
 
 
 
