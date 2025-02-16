@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-<img src="./1000_F_835067202_fRNzEFrP4dd8jTgXyndx4nz1EiUTY0c8.jpg" mix-blend-mode="multiply" alt="Alt text describing the image" width="700" height="450" style="border-radius: 10%;" />
+<img src="./Programming-bro.png" mix-blend-mode="multiply" alt="Alt text describing the image" width="700" height="450" style="border-radius: 10%;" />
 
 
 
