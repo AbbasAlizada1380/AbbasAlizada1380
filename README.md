@@ -2,11 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer!)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbbasAlizada1380&show_icons=true&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbbasAlizada1380&theme=onedark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbbasAlizada1380&theme=dark)
 
 ![Your Skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
