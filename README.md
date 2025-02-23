@@ -10,17 +10,17 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbasalizada&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abbasalizada1380&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abbasalizada&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abbasalizada1380&theme=dark" alt="GitHub Streak" />
 </p>
 
 <!-- Trophy Showcase -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abbasalizada&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abbasalizada1380&theme=onedark" alt="Trophies" />
 </p>
 
 <!-- Technologies & Tools -->
