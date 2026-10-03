@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: $abbasalizada1380
+          github_user_name: AbbasAlizada1380
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
